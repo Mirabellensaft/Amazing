@@ -1,4 +1,4 @@
-# MobileMaze
+# Amazing
 🕳️ this was a maze game, playable in mobile browsers, by tilting your phone.
 
 The tilting does not work anymore, as accelerometer access in mobile browsers is prohibited now, as this poses a security risk. 
